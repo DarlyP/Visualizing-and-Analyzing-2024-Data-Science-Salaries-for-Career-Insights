@@ -17,7 +17,7 @@ Peningkatan pekerjaan di bidang data science terjadi seiring dengan meningkatnya
 
 ---
 
-## Kesimpulan
+## Conclusion
 
 Dengan menganalisis data, dapat disimpulkan bahwa:
 
