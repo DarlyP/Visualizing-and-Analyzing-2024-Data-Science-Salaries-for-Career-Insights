@@ -11,6 +11,15 @@ Kaggle: [Latest Data Science Job Salaries 2020 - 2024](https://www.kaggle.com/da
 
 ---
 
+## Tools
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />](https://seaborn.pydata.org/)
+[<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
+[<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />](https://www.scipy.org/)
+[<img src="https://img.shields.io/badge/Bokeh-E1477E?style=for-the-badge&logo=bokeh&logoColor=white" alt="Bokeh" />](https://bokeh.org/)
+
+---
+
 ## Introduction
 
 The increase in employment within the field of data science coincides with the growing demand for data analysis. Several contributing factors include the data explosion, advancements in data technology, heightened awareness of the importance of data, the growth of artificial intelligence and predictive analytics, and the application of data science across various industries. Investments in training and education have also reinforced this trend. The impact of the ever-increasing demand and evolving requirements for data science underscores the importance of analyzing salary trend patterns for individuals interested in entering the data field.
