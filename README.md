@@ -13,22 +13,22 @@ Kaggle: [Latest Data Science Job Salaries 2020 - 2024](https://www.kaggle.com/da
 
 ## Introduction
 
-Peningkatan pekerjaan di bidang data science terjadi seiring dengan meningkatnya kebutuhan akan analisis data. Beberapa faktor yang mempengaruhinya meliputi ledakan data, perkembangan data, kesadaran akan pentingnya data, pertumbuhan kecerdasan buatan dan analisis prediktif, serta penerapan data science di berbagai industri. Investasi dalam pelatihan dan pendidikan juga turut memperkuat tren ini. Dampak dari kebutuhan yang terus meningkat dan permintaan yang terus berkembang terhadap ilmu data science, menyebabkan pentingnya analisis pola tren gaji bagi individu yang tertarik memasuki dunia data.
+The increase in employment within the field of data science coincides with the growing demand for data analysis. Several contributing factors include the data explosion, advancements in data technology, heightened awareness of the importance of data, the growth of artificial intelligence and predictive analytics, and the application of data science across various industries. Investments in training and education have also reinforced this trend. The impact of the ever-increasing demand and evolving requirements for data science underscores the importance of analyzing salary trend patterns for individuals interested in entering the data field.
 
 ---
 
 ## Conclusion
 
-Dengan menganalisis data, dapat disimpulkan bahwa:
+By analyzing the data, it can be concluded that:
 
-- Ada korelasi moderat antara pengalaman kerja dan gaji dalam industri Data Science. Semakin tinggi tingkat pengalaman, semakin besar kemungkinan mendapatkan gaji yang lebih tinggi.
+- There is a moderate correlation between work experience and salary in the Data Science industry. The higher the level of experience, the greater the likelihood of earning a higher salary.
 
-- Lokasi pekerjaan memainkan peran penting dalam menentukan gaji, dengan perbedaan gaji yang tercermin dari faktor-faktor seperti biaya hidup, persaingan pasar kerja lokal, dan kondisi ekonomi regional.
+- Job location plays a significant role in determining salary, with wage differences reflecting factors such as the cost of living, local job market competition, and regional economic conditions.
 
-- Tidak ada bukti signifikan yang menunjukkan bahwa ukuran perusahaan secara langsung memengaruhi pertumbuhan gaji dalam industri Data Science, menyoroti pentingnya faktor-faktor lain seperti fleksibilitas kompensasi, kebutuhan akan bakat berkualitas, dan dinamika pasar kerja.
+- There is no significant evidence to suggest that company size directly affects salary growth in the Data Science industry, highlighting the importance of other factors such as compensation flexibility, the demand for quality talent, and labor market dynamics.
 
 ---
 
-**Disclaimer**: Notebook ini dibuat semata-mata untuk tujuan pembelajaran dan eksplorasi. Tidak ada maksud untuk menyinggung atau merugikan pihak mana pun. Segala konten dan analisis yang disajikan didasarkan pada data publik yang tersedia secara online. Saya melakukan proses ini untuk meningkatkan pemahaman tentang teknik dan metodologi analisis data, serta untuk mengasah keterampilan dalam mengimplementasikan algoritma dan model yang relevan dalam konteks pembelajaran data science.
-
-Dalam melakukan analisis ini, saya berusaha menjaga objektivitas dan profesionalitas dalam menginterpretasikan data yang ada. Segala kesimpulan atau rekomendasi yang disampaikan merupakan hasil dari analisis pribadi dan tidak bermaksud sebagai saran profesional dalam kapasitas tertentu. Saya berharap informasi yang diperoleh dari notebook ini dapat bermanfaat bagi siapa pun yang membacanya untuk kepentingan belajar dan pengembangan keterampilan analisis data.
+**Disclaimer**: 
+- This notebook is created solely for learning and exploration purposes. There is no intention to offend or harm any party. All content and analysis presented are based on publicly available data online. I undertake this process to enhance my understanding of data analysis techniques and methodologies and hone my skills in implementing relevant algorithms and models within the context of data science learning. In conducting this analysis, I strive to maintain objectivity and professionalism in interpreting the existing data. Any conclusions or recommendations provided result from personal analysis and are not intended as professional advice in any specific capacity. I hope the information obtained from this notebook can be useful to anyone reading it to learn and develop data analysis skills.
+- This notebook is written in Indonesian.
