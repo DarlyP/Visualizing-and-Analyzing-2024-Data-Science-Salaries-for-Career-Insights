@@ -1,6 +1,6 @@
 ![Data Science Salary 2024](https://github.com/DarlyP/Data-Science-Salary-2024/blob/main/DataScience.jpg)
 
-# Data Science Salary 2024
+# Visualizing and Analyzing 2024 Data Science Salaries for Career Insights
 
 ---
 
